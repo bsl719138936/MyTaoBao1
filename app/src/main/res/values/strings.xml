@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTaoBao</string>
+    <string name="login_ui_title">我的淘宝</string>
+    <string name="login_user_name">帐 号</string>
+    <string name="login_user_hint">请输入帐号</string>
+    <string name="login_password">密 码</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="btn_login">登 录</string>
+    <string name="btn_exit">退 出</string>
+    <string name="reg_tv">注 册</string>
+    <string name="reg_ui_title">注册新用户</string>
+    <string name="reg_ui_tv">验证码</string>
+    <string name="reg_ui_editText">请输入验证码</string>
+    <string name="btn_reg">注 册</string>
+</resources>
